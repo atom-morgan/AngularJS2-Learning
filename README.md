@@ -69,6 +69,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
 * [Writing Angular 2 in TypeScript] (http://victorsavkin.com/post/123555572351/writing-angular-2-in-typescript)  
 * [Getting Started With Angular 2.0] (http://thejackalofjavascript.com/getting-started-with-angular-2-0/)  
+* [Getting Started with Angular 2 using TypeScript](http://www.sitepoint.com/getting-started-with-angular-2-using-typescript/)
 
 ## Tutorial Series
 * [Creating a Super Simple Todo App Using Angular 2]   (http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial)  
