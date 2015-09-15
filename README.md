@@ -106,7 +106,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 * [The Ultimate Guide to Forms in Angular 2] (http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)  
 
 ## Authentication
-
+* [Creating your first Angular 2 app: From authentication to calling an API and everything in between](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
 ## Collections (& ngRepeat Stuff)
 
 ## Code Organization
