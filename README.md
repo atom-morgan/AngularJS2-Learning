@@ -63,7 +63,8 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 ## General Topics
 * [Two Phases of Angular 2 Applications] (http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)   
 * [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)  
-* [Change Detection in Angular 2] (http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)  
+* [Change Detection in Angular 2] (http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
+* [Angular 2 in Plain JS](https://daveceddia.com/angular-2-in-plain-js/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
