@@ -92,6 +92,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 ## Dependency Injection
 * [Dependency Injection in Angular 2](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
 * [Host and Visibility in Angular 2's Dependency Injection](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
+* [Dependency Injection In Angular 2.0](http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0)
 
 ## Components
 * [Angular 2 Template Syntax] (http://victorsavkin.com/post/119943127151/angular-2-template-syntax)  
