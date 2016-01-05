@@ -81,10 +81,12 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 
 ## Boilerplates/Seed Projects
 * [Official Quick Start by the Angular team] (https://github.com/angular/quickstart)  
+* [Angular 2 starter pack in ES6](https://github.com/blacksonic/angular2-es6-starter)
 
 ## Multipart Articles
 
 ## Sample Apps
+* [Angular 2 TodoMVC in ES6](https://github.com/blacksonic/angular2-es6-todomvc)
 
 ## Scopes & Compile
 * Does this still make sense as a category for Angular2???
