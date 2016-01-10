@@ -84,6 +84,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 ## Boilerplates/Seed Projects
 * [Official Quick Start by the Angular team] (https://github.com/angular/quickstart)  
 * [Angular 2 starter pack in ES6](https://github.com/blacksonic/angular2-es6-starter)
+* [Angular 2 Starter in TypeScript with Gulp workflow](https://github.com/antonybudianto/angular2-starter)
 
 ## Multipart Articles
 
