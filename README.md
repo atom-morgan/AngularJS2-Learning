@@ -19,26 +19,20 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 [Boilerplates/Seed Projects](#boilerplatesseed-projects)  
 [Multipart Articles](#multipart-articles)  
 [Sample Apps](#sample-apps)  
-[Scopes & Compile](#scopes--compile)  
 [Dependency Injection](#dependency-injection)  
 [Components/Directives](#components)  
 [Services/Providers](#servicesproviders)  
 [Routing](#routing)  
-[Promises/Deferred](#promisesdeferred)  
+[Observables](#observables)  
 [Forms](#forms)  
 [Authentication](#authentication)  
-[Collections](#collections--ngrepeat-stuff)  
 [Code Organization](#code-organization)  
 [Testing](#testing)  
 [RESTful Stuff](#restful-stuff)  
 [Localization](#localization)  
 [UI Stuff](#ui-stuff)  
-[Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)  
-[Hosted Backends](#integration-with-other-languagesframeworks)  
 [Mobile](#mobile)  
 [Popular Third-Party Modules](#popular-third-party-modules)  
-[Test Editor Bundles](#text-editor-bundleside-stuff)  
-[Development Tools](#development-tools)  
 
 ## Books
 | Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
@@ -92,9 +86,6 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 ## Sample Apps
 * [Angular 2 TodoMVC in ES6](https://github.com/blacksonic/angular2-es6-todomvc)
 
-## Scopes & Compile
-* Does this still make sense as a category for Angular2???
-
 ## Dependency Injection
 * [Dependency Injection in Angular 2](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
 * [Host and Visibility in Angular 2's Dependency Injection](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
@@ -108,14 +99,13 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 
 ## Routing
 
-## Promises/Deferred
+## Observables
 
 ## Forms
 * [The Ultimate Guide to Forms in Angular 2] (http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)  
 
 ## Authentication
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
-## Collections (& ngRepeat Stuff)
 
 ## Code Organization
 
@@ -127,14 +117,6 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 
 ## UI Stuff
 
-## Integration With Other Languages/Frameworks
-
-## Hosted Backends
-
 ## Mobile
 
 ## Popular Third-Party Modules
-
-## Text editor bundles/IDE Stuff
-
-## Development Tools
