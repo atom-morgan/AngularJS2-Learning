@@ -43,7 +43,12 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 ## Books
 | Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------:|:--------------------:|:----------------:|:-----------:|
-| [ng-book 2](https://www.ng-book.com/2/)                                                                                           | Lerner, Coury, Murray, Taborda               | Gumroad             | v2.0  |   WIP  |
+| [ng-book 2](https://www.ng-book.com/2/)                                                                                           | Lerner, Coury, Murray, Taborda               | Gumroad             | v2.0  |   October 2016  |
+| [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)                                                                                           | Yakov Fain and Anton Moiseev               | Manning             | v2.0  |   Sept 2016  |
+| [Angular 2 Development in Action](https://www.manning.com/books/angular-2-in-action)                                                                                           | Jeremey Wilken               | Manning             | v2.0  |   Summer 2016  |
+| [Testing Angular 2 Applications](https://www.manning.com/books/testing-angular-2-applications)                                                                                           | Jesse Palmer               | Manning             | v2.0  |   Summer 2016  |
+| [Angular 2 Router](https://leanpub.com/router)                                                                                           | Victor Savkin               | Leanpub             | v2.0  |   October 2016  |
+| [Angular 2 A Practical Introduction](https://leanpub.com/angular2-book)                                                                                           | Sebastian Eschweiler               | Leanpub             | v2.0  |   October 2016  |
 
 
 ## Videos
@@ -56,7 +61,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 * [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)  
 * [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)  
 * [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756)  
-* [reddit] (http://www.reddit.com/r/angularjs)  
+* [reddit] (http://www.reddit.com/r/angular2)  
 
 ## General Topics
 * [Two Phases of Angular 2 Applications] (http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)   
