@@ -3,7 +3,7 @@ Angular 2-Learning
 
 A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 
-NOTE: This repo is now being maintained at my [employer's Github repo] (https://github.com/PremiseHealth/AngularJS2-Learning). I will try to merge changes back into this repo, but the one at Premise Health will always have the latest updates.
+NOTE: In the coming week, I'll be removing most of these existing links, since many of them are no longer valid after changes during the RC process. And I'll focus on keeping this up to date. It looks like I'll finally be using Angular 2 at my job soon, so keeping this list updated is a good way for me to stay up to date with ng2 :)
 
 The version of this repo for Angular 1.x is still maintained [here] (https://github.com/jmcunningham/AngularJS-Learning)
 
