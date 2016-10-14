@@ -3,9 +3,7 @@ Angular 2-Learning
 
 A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 
-NOTE: In the coming week, I'll be removing most of these existing links, since many of them are no longer valid after changes during the RC process. And I'll focus on keeping this up to date. It looks like I'll finally be using Angular 2 at my job soon, so keeping this list updated is a good way for me to stay up to date with ng2 :)
-
-The version of this repo for Angular 1.x is still maintained [here] (https://github.com/jmcunningham/AngularJS-Learning)
+The version of this repo for Angular 1.x is [here] (https://github.com/jmcunningham/AngularJS-Learning)
 
 ### Table of Contents
 [Books](#books)  
@@ -61,16 +59,10 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 * [Two Phases of Angular 2 Applications] (http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)   
 * [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)  
 * [Change Detection in Angular 2] (http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
-* [Angular 2 in Plain JS](https://daveceddia.com/angular-2-in-plain-js/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
-* [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
-* [Writing Angular 2 in TypeScript] (http://victorsavkin.com/post/123555572351/writing-angular-2-in-typescript)  
-* [Getting Started With Angular 2.0] (http://thejackalofjavascript.com/getting-started-with-angular-2-0/)  
-* [Getting Started with Angular 2 using TypeScript](http://www.sitepoint.com/getting-started-with-angular-2-using-typescript/)
 
 ## Tutorial Series
-* [Creating a Super Simple Todo App Using Angular 2]   (http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial)  
 
 ## Best Practices/Style Guides
 
@@ -78,22 +70,15 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 
 ## Boilerplates/Seed Projects
 * [Official Quick Start by the Angular team] (https://github.com/angular/quickstart)  
-* [Angular 2 starter pack in ES6](https://github.com/blacksonic/angular2-es6-starter)
-* [Angular 2 Starter in TypeScript with Gulp workflow](https://github.com/antonybudianto/angular2-starter)
 
 ## Multipart Articles
 
 ## Sample Apps
-* [Angular 2 TodoMVC in ES6](https://github.com/blacksonic/angular2-es6-todomvc)
 
 ## Dependency Injection
-* [Dependency Injection in Angular 2](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
-* [Host and Visibility in Angular 2's Dependency Injection](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
-* [Dependency Injection In Angular 2.0](http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0)
 
 ## Components
 * [Angular 2 Template Syntax] (http://victorsavkin.com/post/119943127151/angular-2-template-syntax)  
-* [Creating Container Components, Part 3: Angular 2 Component Directives]   (https://www.airpair.com/angularjs/posts/creating-components-p3-angular2-directives)  
 
 ## Services/Providers
 
@@ -102,10 +87,8 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 ## Observables
 
 ## Forms
-* [The Ultimate Guide to Forms in Angular 2] (http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)  
 
 ## Authentication
-* [Creating your first Angular 2 app: From authentication to calling an API and everything in between](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
 
 ## Code Organization
 
