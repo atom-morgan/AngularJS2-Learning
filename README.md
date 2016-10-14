@@ -74,6 +74,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Scalable Single-Page Application Architecture] (http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
 * [Building an Angular 2 Application for Production] (http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [Debugging Angular 2 Applications] (http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications)
+* [Angular 2 Lazy Loading with Webpack] (https://medium.com/@daviddentoom/angular-2-lazy-loading-with-webpack)
 
 ## Typescript
 * [Angular 2: Why Typescript] (https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8#.e8hmmohp5)
