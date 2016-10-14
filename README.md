@@ -27,7 +27,6 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 [Authentication](#authentication)  
 [Code Organization](#code-organization)  
 [Testing](#testing)  
-[RESTful Stuff](#restful-stuff)  
 [Localization](#localization)  
 [UI Stuff](#ui-stuff)  
 [Mobile](#mobile)  
@@ -42,12 +41,17 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 | [Testing Angular 2 Applications](https://www.manning.com/books/testing-angular-2-applications)                                                                                           | Jesse Palmer               | Manning             | v2.0  |   Summer 2016  |
 | [Angular 2 Router](https://leanpub.com/router)                                                                                           | Victor Savkin               | Leanpub             | v2.0  |   October 2016  |
 | [Angular 2 A Practical Introduction](https://leanpub.com/angular2-book)                                                                                           | Sebastian Eschweiler               | Leanpub             | v2.0  |   October 2016  |
+| [Rangle's Angular 2 Training Book](https://angular-2-training-book.rangle.io/)                                                                                           | Rangle.io               |  -             | v2.0  |   ?  |
 
 
 ## Videos
-* [Egghead.io](https://egghead.io/technologies/angular2/)  
+* [Egghead.io](https://egghead.io/technologies/angular2/) 
+* [Build Angular 2 apps with TypeScript and Visual Studio Code] (https://www.youtube.com/watch?v=zoCLEwFUpqg)
 
 ## Courses
+* [Angular University] (https://angular-university.io/)
+* [Angular 2 From the Ground Up] (https://www.udemy.com/angular-2-from-the-ground-up/?ids=586976)
+* [Ultimate Angular] (https://ultimateangular.com/)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)  
@@ -74,6 +78,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 ## Typescript
 * [Angular 2: Why Typescript] (https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8#.e8hmmohp5)
 * [Functional Typescript] (https://vsavkin.com/functional-typescript-316f0e003dc6#.u1x9h5g75)
+* [Learn Typescript in 30 Minutes] (http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/)
 
 ## Introductions/Beginning Angular2
 * [Core Concepts of Angular 2] (https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04#.vdpk10s1z)
@@ -82,16 +87,24 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Tour Of Heros] (https://angular.io/docs/ts/latest/tutorial/index.html)
 * [Official Angular 2 Quickstart] (https://angular.io/docs/ts/latest/quickstart.html)
 * [Angular 2 User Registration and Login Example & Tutorial] (http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial)
+* [building hacker news with angular 2 cli, rxjs and webpack] (http://houssein.me/angular2-hacker-news)
 
 ## Best Practices/Style Guides
+* [Official Style Guide] (https://angular.io/docs/ts/latest/guide/style-guide.html)
 
 ## Lessons Learned
 
 ## Boilerplates/Seed Projects
-* [Official Quick Start by the Angular team] (https://github.com/angular/quickstart)  
+* [Angular CLI] (https://github.com/angular/angular-cli)
+* [Official Quick Start by the Angular team] (https://github.com/angular/quickstart) 
+* [Angular Seed] (https://github.com/mgechev/angular-seed)
+* [Angular 2 Webpack] (https://github.com/preboot/angular2-webpack)
+* [Angular2 Seed] (https://github.com/falconmick/angular-seed)
 
 ## Sample Apps
 * [Angular 2 Kitchen Sink] (https://github.com/born2net/Angular-kitchen-sink)
+* [Angular 2 Chat App] (https://github.com/start-angular/angular2-node-socket-io-chat-app)
+* [Angular 2 Full Stack Project] (https://github.com/DavideViolante/Angular2-Full-Stack)
 
 ## Dependency Injection
 * [Dependency Injection in Angular 1 & Angular 2] (https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.s31f6b2l5)
@@ -151,8 +164,6 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 ## Testing
 * [3 Ways to Test Angular 2 Components] (https://vsavkin.com/three-ways-to-test-angular-2-components-dcea8e90bd8d#.g1gb8mbe6)
 * [Testing Components in Angular 2 with Jasmine] (https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine)
-
-## RESTful Stuff
 
 ## Localization
 
