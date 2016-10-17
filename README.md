@@ -47,6 +47,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 ## Videos
 * [Egghead.io](https://egghead.io/technologies/angular2/) 
 * [Build Angular 2 apps with TypeScript and Visual Studio Code] (https://www.youtube.com/watch?v=zoCLEwFUpqg)
+* [TypeScript 2.0 - ES6, ES7 features, how to use TypeScript in Angular2] (https://www.youtube.com/watch?v=R5gXgPzPR_U)
 
 ## Courses
 * [Angular University] (https://angular-university.io/)
@@ -167,6 +168,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Testing Components in Angular 2 with Jasmine] (https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine)
 
 ## Localization
+* [Angular 2: Automated i18n workflow using gulp] (http://rolandoldengarm.com/index.php/2016/10/17/angular-2-automated-i18n-workflow-using-gulp/)
 
 ## UI Stuff
 
