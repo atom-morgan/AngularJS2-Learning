@@ -28,7 +28,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 [Code Organization](#code-organization)  
 [Testing](#testing)  
 [Localization](#localization)  
-[UI Stuff](#ui-stuff)  
+[Styling](#styling)  
 [Mobile](#mobile)  
 [Popular Third-Party Modules](#popular-third-party-modules)  
 
@@ -151,6 +151,8 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [How to Implement Conditional Validation in Angular 2 Model-driven Forms] (https://scotch.io/tutorials/how-to-implement-conditional-validation-in-angular-2-model-driven-forms)
 * [Using Angular 2’s Template-Driven Forms] (https://scotch.io/tutorials/using-angular-2s-template-driven-forms)
 * [How to Deal with Different Form Controls in Angular 2] (https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2)
+* [Angular 2 form fundamentals: reactive forms] (https://toddmotto.com/angular-2-forms-reactive)
+* [Angular 2 form fundamentals: template-driven forms] (https://toddmotto.com/angular-2-forms-template-driven)
 
 ## Templates
 * [Angular 2 Template Syntax] (https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a#.rmb27rg77)
@@ -170,8 +172,10 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 ## Localization
 * [Angular 2: Automated i18n workflow using gulp] (http://rolandoldengarm.com/index.php/2016/10/17/angular-2-automated-i18n-workflow-using-gulp/)
 
-## UI Stuff
+## Styling
+* [CSS Encapsulation with Angular 2 Components] (https://coryrylan.com/blog/css-encapsulation-with-angular-2-components)
 
 ## Mobile
 
 ## Popular Third-Party Modules
+* [Angular 2 Progressbar] (https://murhafsousli.github.io/ng2-progressbar/)
