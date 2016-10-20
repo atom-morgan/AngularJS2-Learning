@@ -140,6 +140,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [The Taxonomy of Reactive Programming] (https://vsavkin.com/the-taxonomy-of-reactive-programming-d40e2e23dee4#.j0qx1fyxi)
 * [Angular 2 HTTP Requests with Observables] (https://scotch.io/tutorials/angular-2-http-requests-with-observables)
 * [RxJ First Steps] (http://juristr.com/blog/2016/06/rxjs-1st-steps-subject/)
+* [3 Common Rxjs Pitfalls that you might find while building Angular 2 Applications] (http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
 
 ## Forms
 * [Reactive Forms in Angular 2] (http://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html)
