@@ -18,12 +18,13 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 [Boilerplates/Seed Projects](#boilerplatesseed-projects)  
 [Sample Apps](#sample-apps)  
 [Dependency Injection](#dependency-injection)  
-[Components/Directives](#components)  
+[Components](#components)  
 [Services/Providers](#servicesproviders)  
 [Routing](#routing)  
 [Observables](#observables)  
 [Forms](#forms)  
 [Templates](#templates)
+[Component Libraries]()
 [Authentication](#authentication)  
 [Code Organization](#code-organization)  
 [Testing](#testing)  
@@ -76,6 +77,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Building an Angular 2 Application for Production] (http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [Debugging Angular 2 Applications] (http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications)
 * [Angular 2 Lazy Loading with Webpack] (https://medium.com/@daviddentoom/angular-2-lazy-loading-with-webpack)
+* [Angular 2 AoT Compilation with webpack] (https://medium.com/@laco0416/aot-compilation-with-webpack-359ac9f4916f#.6rqapma5q)
 
 ## Typescript
 * [Angular 2: Why Typescript] (https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8#.e8hmmohp5)
@@ -163,6 +165,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Angular 2 Authentication Tutorial] (https://dzone.com/articles/angular-2-authentication-tutorial-part-ii)
 * [Auth0: Angular 2 Authentication] (https://auth0.com/blog/angular-2-authentication/)
 * [JWT authentication with Vert.x, Keycloak and Angular 2] (http://126kr.com/article/5ycbj4vkc4q)
+* [Angular 2 — Making your component auth-aware] (https://medium.com/@NetanelBasal/angular-2-making-your-component-auth-aware-982054048c8a#.cj6um59ur)
 
 ## Code Organization
 
@@ -180,3 +183,5 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 
 ## Popular Third-Party Modules
 * [Angular 2 Progressbar] (https://murhafsousli.github.io/ng2-progressbar/)
+* [PrimeNG] (http://www.primefaces.org/primeng/#/)
+* [Kendo UI for Angular 2] (http://www.telerik.com/kendo-angular-ui/)
