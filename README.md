@@ -118,6 +118,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Component Relative Paths in Angular 2] (http://blog.thoughtram.io/angular/2016/06/08/component-relative-paths-in-angular-2.html)
 * [Polymorphic Component Container using ContentChildren] (http://www.mcrook.com/2016/10/angular-2-contentchildren-with-abstract.html)
 * [Stateful and Stateless Components: The Missing Manual] (https://toddmotto.com/stateful-stateless-components)
+* [Angular 2 Smart Components vs Presentation Components: What's the Difference, When to Use Each and Why?] (http://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
 
 ## Services/Providers
 * [Bypassing Providers in Angular 2] (http://blog.thoughtram.io/angular/2016/09/14/bypassing-providers-in-angular-2.html)
