@@ -83,6 +83,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Angular 2: Why Typescript] (https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8#.e8hmmohp5)
 * [Functional Typescript] (https://vsavkin.com/functional-typescript-316f0e003dc6#.u1x9h5g75)
 * [Learn Typescript in 30 Minutes] (http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/)
+* [Adding Custom Typings Files (*.d.ts) In An Angular 2 TypeScript Application] (https://www.bennadel.com/blog/3169-adding-custom-typings-files-d-ts-in-an-angular-2-typescript-application.htm)
 
 ## Introductions/Beginning Angular2
 * [Core Concepts of Angular 2] (https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04#.vdpk10s1z)
@@ -144,6 +145,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Angular 2 HTTP Requests with Observables] (https://scotch.io/tutorials/angular-2-http-requests-with-observables)
 * [RxJ First Steps] (http://juristr.com/blog/2016/06/rxjs-1st-steps-subject/)
 * [3 Common Rxjs Pitfalls that you might find while building Angular 2 Applications] (http://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
+* [Observables Cheat Sheet] (http://onehungrymind.com/observable-cheat-sheet/)
 
 ## Forms
 * [Reactive Forms in Angular 2] (http://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html)
@@ -157,6 +159,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [How to Deal with Different Form Controls in Angular 2] (https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2)
 * [Angular 2 form fundamentals: reactive forms] (https://toddmotto.com/angular-2-forms-reactive)
 * [Angular 2 form fundamentals: template-driven forms] (https://toddmotto.com/angular-2-forms-template-driven)
+* [Angular 2 Forms — Create Async Validator Directive] (https://medium.com/@NetanelBasal/angular-2-forms-create-async-validator-directive-dd3fd026cb45#.ge1d9la2t)
 
 ## Templates
 * [Angular 2 Template Syntax] (https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a#.rmb27rg77)
