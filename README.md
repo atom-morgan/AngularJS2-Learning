@@ -160,6 +160,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Angular 2 form fundamentals: reactive forms] (https://toddmotto.com/angular-2-forms-reactive)
 * [Angular 2 form fundamentals: template-driven forms] (https://toddmotto.com/angular-2-forms-template-driven)
 * [Angular 2 Forms — Create Async Validator Directive] (https://medium.com/@NetanelBasal/angular-2-forms-create-async-validator-directive-dd3fd026cb45#.ge1d9la2t)
+* [Reactive FormGroup validation with AbstractControl in Angular 2] (https://toddmotto.com/reactive-formgroup-validation-angular-2)
 
 ## Templates
 * [Angular 2 Template Syntax] (https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a#.rmb27rg77)
@@ -176,6 +177,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 ## Testing
 * [3 Ways to Test Angular 2 Components] (https://vsavkin.com/three-ways-to-test-angular-2-components-dcea8e90bd8d#.g1gb8mbe6)
 * [Testing Components in Angular 2 with Jasmine] (https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine)
+* [Angular 2 Testing In Depth: Services] (https://auth0.com/blog/angular-2-testing-in-depth-services/)
 
 ## Localization
 * [Angular 2: Automated i18n workflow using gulp] (http://rolandoldengarm.com/index.php/2016/10/17/angular-2-automated-i18n-workflow-using-gulp/)
