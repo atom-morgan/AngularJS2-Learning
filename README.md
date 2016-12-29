@@ -78,6 +78,7 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Debugging Angular 2 Applications] (http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications)
 * [Angular 2 Lazy Loading with Webpack] (https://medium.com/@daviddentoom/angular-2-lazy-loading-with-webpack)
 * [Angular 2 AoT Compilation with webpack] (https://medium.com/@laco0416/aot-compilation-with-webpack-359ac9f4916f#.6rqapma5q)
+* [Angular 2 Fundamentals] (https://tutorialedge.net/course/angular-2-fundamentals)
 
 ## Typescript
 * [Angular 2: Why Typescript] (https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8#.e8hmmohp5)
@@ -110,6 +111,8 @@ The version of this repo for Angular 1.x is [here] (https://github.com/jmcunning
 * [Angular 2 Kitchen Sink] (https://github.com/born2net/Angular-kitchen-sink)
 * [Angular 2 Chat App] (https://github.com/start-angular/angular2-node-socket-io-chat-app)
 * [Angular 2 Full Stack Project] (https://github.com/DavideViolante/Angular2-Full-Stack)
+* [Angular 2 Admin Dashboard] (https://github.com/elliotforbes/angular-2-admin)
+* [Angular 2 Websocket Messenger] (https://github.com/elliotforbes/ng-chat)
 
 ## Dependency Injection
 * [Dependency Injection in Angular 1 & Angular 2] (https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.s31f6b2l5)
