@@ -52,6 +52,7 @@ The version of this repo for Angular 1.x is [here](https://github.com/jmcunningh
 * [TypeScript 2.0 - ES6, ES7 features, how to use TypeScript in Angular2](https://www.youtube.com/watch?v=R5gXgPzPR_U)
 
 ## Courses
+* [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners/?couponCode=GITHUB25)
 * [Angular University](https://angular-university.io/)
 * [Angular 2 From the Ground Up](https://www.udemy.com/angular-2-from-the-ground-up/?ids=586976)
 * [Ultimate Angular](https://ultimateangular.com/)
