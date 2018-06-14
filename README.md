@@ -44,6 +44,7 @@ The version of this repo for Angular 1.x is [here](https://github.com/jmcunningh
 | [Angular 2 Router](https://leanpub.com/router)                                                                                           | Victor Savkin               | Leanpub             | v2.0  |   October 2016  |
 | [Angular 2 A Practical Introduction](https://leanpub.com/angular2-book)                                                                                           | Sebastian Eschweiler               | Leanpub             | v2.0  |   October 2016  |
 | [Rangle's Angular 2 Training Book](https://angular-2-training-book.rangle.io/)                                                                                           | Rangle.io               |  -             | v2.0  |   ?  |
+| [The Angular Tutorial](http://www.angulartutorial.org/) | Adam Morgan | Softcover | v6.0 | April 2018 |
 
 
 ## Videos
